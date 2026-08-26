@@ -1,0 +1,74 @@
+{
+  "principalInvestigator": [
+    {
+      "name": "Jaebum Noh",
+      "position": "Assistant Professor, Department of Optical Engineering",
+      "affiliation": "Kumoh National Institute of Technology (KIT)",
+      "researchInterests": [
+        "AI-assisted inverse design",
+        "Meta-optics",
+        "Computational electromagnetics"
+      ],
+      "education": "",
+      "experience": [
+        {
+          "title": "Assistant Professor",
+          "department": "Department of Optical Engineering",
+          "institution": "Kumoh National Institute of Technology (KIT)",
+          "period": "Jan. 2026 – Present"
+        },
+        {
+          "title": "Postdoctoral Researcher",
+          "department": "Department of Mechanical Engineering",
+          "institution": "Pohang University of Science and Technology (POSTECH)",
+          "period": "Aug. 2025 – Dec. 2025"
+        },
+        {
+          "title": "M.S./Ph.D. Student",
+          "department": "Department of Mechanical Engineering",
+          "institution": "Pohang University of Science and Technology (POSTECH)",
+          "period": "Mar. 2019 – Aug. 2025"
+        },
+        {
+          "title": "Participant",
+          "department": "Intensive Program in Artificial Intelligence",
+          "institution": "Carnegie Mellon University, USA",
+          "period": "Aug. 2019 – Feb. 2020"
+        },
+        {
+          "title": "B.S. Student",
+          "department": "Department of Mechanical Engineering",
+          "institution": "Pohang University of Science and Technology (POSTECH)",
+          "period": "Mar. 2015 – Feb. 2019"
+        }
+      ],
+      "email": "jbnoh30@kumoh.ac.kr",
+      "telephone": "054-478-7776",
+      "googleScholar": "https://scholar.google.com/citations?hl=ko&user=OyESjGYAAAAJ&view_op=list_works&sortby=pubdate",
+      "orcid": "",
+      "cv": "",
+      "image": "assets/images/members-no-jaebeom.jpg",
+      "imageAlt": "Jaebum Noh principal investigator portrait"
+    }
+  ],
+  "graduateResearchers": [],
+  "undergraduateResearchers": [
+    {
+      "name": "박주왕",
+      "program": "Undergraduate Researcher",
+      "researchTopic": "",
+      "email": "",
+      "image": "assets/images/members-park-juwang.jpg",
+      "imageAlt": "박주왕 undergraduate researcher portrait"
+    },
+    {
+      "name": "김민재",
+      "program": "Undergraduate Researcher",
+      "researchTopic": "",
+      "email": "",
+      "image": "assets/images/members-kim-minjae.jpg",
+      "imageAlt": "김민재 undergraduate researcher portrait"
+    }
+  ],
+  "alumni": []
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 126" role="img" aria-labelledby="title desc">
+  <title>AIM Lab</title>
+  <desc>AIM Lab logo for the A.I. integrated Metasystems Lab</desc>
+  <g fill="#000000" font-family="Inter, Arial, Helvetica, sans-serif">
+    <text x="0" y="78" font-size="74" font-weight="800" letter-spacing="-4">AIM</text>
+    <path d="M154 17v92" stroke="#81B29A" stroke-width="2.5"/>
+    <text x="184" y="69" font-size="40" font-weight="750" letter-spacing="-1.4">AIM Lab</text>
+    <text x="186" y="103" font-size="22" font-weight="550" letter-spacing=".1">A.I. integrated Metasystems Lab</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 188" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Metasurface element array</title>
+  <desc id="description">A regular three by four grid of golden rectangular meta-atoms with varying sizes and rotations.</desc>
+  <g fill="#A98F6A">
+    <rect x="18" y="20" width="14" height="40" transform="rotate(0 25 40)"/>
+    <rect x="78" y="24" width="12" height="32" transform="rotate(30 84 40)"/>
+    <rect x="135" y="25" width="14" height="30" transform="rotate(60 142 40)"/>
+    <rect x="17" y="76" width="16" height="36" transform="rotate(90 25 94)"/>
+    <rect x="77" y="73" width="14" height="42" transform="rotate(120 84 94)"/>
+    <rect x="133" y="76" width="18" height="36" transform="rotate(150 142 94)"/>
+    <rect x="19" y="129" width="12" height="42" transform="rotate(30 25 150)"/>
+    <rect x="76" y="131" width="16" height="38" transform="rotate(60 84 150)"/>
+    <rect x="135" y="128" width="14" height="44" transform="rotate(90 142 150)"/>
+  </g>
+</svg>

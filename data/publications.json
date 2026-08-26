@@ -1,0 +1,234 @@
+{
+  "categories": [
+    {
+      "id": "international-papers",
+      "title": "International Papers",
+      "entries": [
+        {
+          "year": 2025,
+          "order": 2,
+          "authors": "J. Noh†, J. Kim†, and J. Rho.",
+          "title": "Overcoming Information Sparsity in Metasurfaces for Full-Color Holography via End-to-End Design",
+          "journal": "Nano Letters",
+          "volume": "25",
+          "issue": "29"
+        },
+        {
+          "year": 2025,
+          "order": 1,
+          "authors": "J. Park†, J. Noh†, J. Shin†, G. X. Gu, and J. Rho.",
+          "title": "Investigating Static and Dynamic Behaviors in 3D Chiral Mechanical Metamaterials by Disentangled Generative Models",
+          "journal": "Advanced Functional Materials",
+          "volume": "35",
+          "issue": "2"
+        },
+        {
+          "year": 2024,
+          "order": 4,
+          "authors": "J. Noh†, H. Cho†, C. Park†, and J. Rho.",
+          "title": "MetaCraft: Database-Driven Metalens Design and Optimization Software for Nanophotonic Applications",
+          "journal": "SoftwareX",
+          "volume": "28",
+          "pages": "101954"
+        },
+        {
+          "year": 2024,
+          "order": 3,
+          "authors": "B. Ko†, J. Noh†, D. Chae†, C. Lee, H. Lim, H. Lee, and J. Rho.",
+          "title": "Neutral‐Colored Transparent Radiative Cooler by Tailoring Solar Absorption with Punctured Bragg Reflectors",
+          "journal": "Advanced Functional Materials",
+          "volume": "34",
+          "issue": "52"
+        },
+        {
+          "year": 2024,
+          "order": 2,
+          "authors": "Z. Wang, C. Qian, P. Lin, B. Zheng, G. Kim, J. Noh, E. Li, J. Rho, and H. Chen.",
+          "title": "3D Intelligent Cloaked Vehicle Equipped with Thousand‐Level Reconfigurable Full‐Polarization Metasurfaces",
+          "journal": "Advanced Materials",
+          "volume": "36",
+          "issue": "31"
+        },
+        {
+          "year": 2024,
+          "order": 1,
+          "authors": "N. Raeis-Hosseini, J. Noh, J. Shin, and J. Rho.",
+          "title": "Dissolvable Flexible Biomemristor Based on a Collagen Electrolyte and Mg Electrodes for Transient Electronics",
+          "journal": "ACS Applied Electronic Materials",
+          "volume": "6",
+          "issue": "5"
+        },
+        {
+          "year": 2024,
+          "order": 0,
+          "authors": "S. So†, J. Yun†, B. Ko†, D. Lee, M. Kim, J. Noh, C, Park, J. Park, and J. Rho.",
+          "title": "Radiative Cooling for Energy Sustainability: From Fundamentals to Fabrication Methods Toward Commercialization",
+          "journal": "Advanced Science",
+          "volume": "11",
+          "issue": "2"
+        },
+        {
+          "year": 2023,
+          "order": 3,
+          "authors": "P. Liu†, S. Bae†, J. Noh,†, M. Kim, J. W. Heo, D. Son, J. Kang, J. Rho, S. So, J.G Kang, and I. S. Kim.",
+          "title": "Functional Radiative Cooling: basic concepts, materials, and best practices in measurements",
+          "journal": "ACS Applied Electronic Materials",
+          "volume": "5",
+          "issue": "11"
+        },
+        {
+          "year": 2023,
+          "order": 2,
+          "authors": "M. Zhelyeznyakov, J. Fröch, A. Wirth-Singh, J. Noh, J. Rho, S. Brunton, and A. Majumdar.",
+          "title": "Large area optimization of meta-lens via data-free machine learning",
+          "journal": "Communications Engineering",
+          "volume": "2",
+          "issue": "1"
+        },
+        {
+          "year": 2023,
+          "order": 1,
+          "authors": "J. Yun†, D. Chae†, S. So, H. Lim, J. Noh, J. Park, N. Kim, C. Park, H. Lee, and J. Rho.",
+          "title": "Optimally designed multimaterial microparticle–polymer composite paints for passive daytime radiative cooling",
+          "journal": "ACS Photonics",
+          "volume": "10",
+          "issue": "8"
+        },
+        {
+          "year": 2023,
+          "order": 0,
+          "authors": "J. Noh, T. Badloe, C. Lee, J. Yun, S. So, and J. Rho.",
+          "title": "Inverse design meets nanophotonics: From computational optimization to artificial neural network",
+          "journal": "Intelligent Nanotechnology",
+          "pages": "3-32"
+        },
+        {
+          "year": 2022,
+          "order": 4,
+          "authors": "J. Noh, Y. H. Nam, S. G. Lee, I. G. Lee, Y. Kim, J. H. Lee, and J. Rho.",
+          "title": "Reconfigurable reflective metasurface reinforced by optimizing mutual coupling based on a deep neural network",
+          "journal": "Photonics and Nanostructures-Fundamentals and Applications",
+          "volume": "52",
+          "pages": "101071"
+        },
+        {
+          "year": 2022,
+          "order": 3,
+          "authors": "N. Jeon†, J. Noh†, C. Jung†, and J. Rho.",
+          "title": "Electrically tunable metasurfaces: from direct to indirect mechanisms",
+          "journal": "New Journal of Physics",
+          "volume": "24",
+          "issue": "7"
+        },
+        {
+          "year": 2022,
+          "order": 2,
+          "authors": "Y. Kim†, G. H. Gu†, P. Asghari-Rad, J. Noh, J. Rho, M. H. Seo, and H. S. Kim.",
+          "title": "Novel deep learning approach for practical applications of indentation",
+          "journal": "Materials Today Advances",
+          "volume": "13",
+          "pages": "100207"
+        },
+        {
+          "year": 2022,
+          "order": 1,
+          "authors": "D. Lee†, J. Lee†, D.H. Sin†, S.G. Han, H. Lee, W. Choi, H. Kim, J. Noh, J. Mun, W. Sung, and S.W. Kim.",
+          "title": "Intrachain delocalization effect of charge carriers on the charge-transfer state dynamics in organic solar cells",
+          "journal": "The Journal of Physical Chemistry C",
+          "volume": "126",
+          "issue": "6"
+        },
+        {
+          "year": 2021,
+          "order": 2,
+          "authors": "T. Han†, J. Noh†, M. H. Kim, J. Rho, and H. Jo.",
+          "title": "Pixelated Microsized Quantum Dot Arrays Using Surface-Tension-Induced Flow",
+          "journal": "ACS Applied Materials & Interfaces",
+          "volume": "13",
+          "issue": "43"
+        },
+        {
+          "year": 2021,
+          "order": 1,
+          "authors": "J. Noh†, Y. H. Nam †, S. So, C. Lee, S. G. Lee, Y. Kim, T.H. Kim, J.H. Lee, and J. Rho.",
+          "title": "Design of a transmissive metasurface antenna using deep neural networks",
+          "journal": "Optical Materials Express",
+          "volume": "11",
+          "issue": "7"
+        },
+        {
+          "year": 2020,
+          "order": 0,
+          "authors": "S. So†, T. Badloe†, J. Noh†, J. Bravo-Abad, and J. Rho.",
+          "title": "Deep learning enabled inverse design in nanophotonics",
+          "journal": "Nanophotonics",
+          "volume": "9",
+          "issue": "5"
+        },
+        {
+          "year": 2019,
+          "order": 1,
+          "authors": "J. M. Park, J. S. Han, C. W. Gal, J. W. Oh, D. Lin, J. Noh, ... and S. J. Park.",
+          "title": "Thermal decomposition behavior and modeling of PMN-PZT ceramic feedstock with varying binder compositions",
+          "journal": "Materials Research Express",
+          "volume": "6",
+          "issue": "6"
+        },
+        {
+          "year": 2019,
+          "order": 0,
+          "authors": "J. W. Oh, J. M. Park, D. S. Shin, J. Noh, and S. J. Park.",
+          "title": "Comparative study of nanoparticle effects on feedstock behavior for injection molding",
+          "journal": "Materials and Manufacturing Processes",
+          "volume": "34",
+          "issue": "4"
+        }
+      ]
+    },
+    {
+      "id": "conference-papers",
+      "title": "Conference Papers",
+      "entries": [
+        {
+          "year": 2024,
+          "order": 1,
+          "authors": "Noh, J.*, & Rho, J.",
+          "title": "Inverse design of 3D chiral metamaterial using generative networks",
+          "venue": "CLEO-PR 2024",
+          "date": "5 August 2024"
+        },
+        {
+          "year": 2024,
+          "order": 2,
+          "authors": "Noh, J.*, & Rho, J.",
+          "title": "End-to-End Design of High-Efficiency RGB Metahologram",
+          "venue": "Jena LIGHT",
+          "date": "3~6, September, 2024"
+        },
+        {
+          "year": 2023,
+          "order": 2,
+          "authors": "Noh, J.*, Yang, Y., & Rho, J.",
+          "title": "Observing sequential aspects of metasurface with deep neural networks",
+          "venue": "Proc. SPIE PC12655, Emerging Topics in Artificial Intelligence (ETAI) 2023",
+          "pages": "PC1265517",
+          "date": "6 October 2023",
+          "doi": "10.1117/12.2676322"
+        },
+        {
+          "year": 2023,
+          "order": 1,
+          "authors": "Noh, J., & Rho, J.",
+          "title": "Deep learning enabled control of active metasurface antenna",
+          "venue": "Proc. SPIE PC12655, Emerging Topics in Artificial Intelligence (ETAI) 2023",
+          "pages": "PC126550S",
+          "date": "5 October 2023",
+          "doi": "10.1117/12.2676330"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "† equal contribution"
+  ]
+}

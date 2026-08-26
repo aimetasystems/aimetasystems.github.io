@@ -1,0 +1,16 @@
+# Local development artifacts
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# Optional local Python environment
+.venv/
+venv/
+__pycache__/
+
+# Locally generated preview captures (not part of the site)
+screenshots/
