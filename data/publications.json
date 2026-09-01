@@ -5,6 +5,25 @@
       "title": "International Papers",
       "entries": [
         {
+          "year": 2026,
+          "order": 2,
+          "authors": "J. Seong, Y. Jeon, G. Han, S. Lee, Y. Yang, S. Kim, C. Lee, J. Kim, J. Kim, J. Noh, and J. Rho.",
+          "title": "Modal contrast engineering in ultraviolet and visible metalenses enabled by material-selective hybridization",
+          "journal": "Nature Communications",
+          "volume": "17",
+          "note": "Published in 2026"
+        },
+        {
+          "year": 2026,
+          "order": 1,
+          "authors": "Z. Geng, Z. Li, M. Zhou, Z. Chen, G. Yuan, J. Noh, S. Lee, C. Park, H. Geng, X. Li, and J. Rho.",
+          "title": "Ultra-efficient physical field computing by complex-valued network quantization",
+          "journal": "Nature Communications",
+          "volume": "17",
+          "issue": "1",
+          "pages": "3762"
+        },
+        {
           "year": 2025,
           "order": 2,
           "authors": "J. Noh†, J. Kim†, and J. Rho.",
