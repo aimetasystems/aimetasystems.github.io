@@ -1,6 +1,6 @@
 # AIM Lab — Local Website Draft
 
-Static website draft for **AIM Lab (A.I. integrated Metasystems Lab)**, Department of Optical System Engineering, Kumoh National Institute of Technology.
+Static website draft for **AIM Lab (A.I. integrated Metasystems Lab)**, Department of Optical Engineering, Kumoh National Institute of Technology.
 
 > Status: local draft only. This project has not been pushed to GitHub, and GitHub Pages has not been enabled.
 

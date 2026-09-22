@@ -5,7 +5,7 @@
   const site = {
     lab: "AIM Lab",
     fullName: "A.I. integrated Metasystems Lab",
-    department: "Department of Optical System Engineering",
+    department: "Department of Optical Engineering",
     university: "Kumoh National Institute of Technology",
     email: "jbnoh30@kumoh.ac.kr",
     scholar: "https://scholar.google.com/citations?user=OyESjGYAAAAJ&hl=en",
