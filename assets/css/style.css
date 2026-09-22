@@ -216,6 +216,12 @@ button { cursor: pointer; }
 .member-contact-links a { color: var(--teal-deep); }
 .member-contact-links strong { color: var(--ink); }
 
+@media (min-width: 1280px) {
+  [data-members].shell { width: min(1360px, calc(100% - 2rem)); }
+  .member-card--pi { grid-template-columns: 220px minmax(0, 1fr); width: 100%; column-gap: 1.5rem; }
+  .member-experience li { font-size: clamp(.85rem, calc(.25rem + .75vw), .925rem); line-height: 1.5; letter-spacing: -.015em; white-space: nowrap; }
+}
+
 .filter-bar { display: flex; flex-wrap: wrap; gap: .5rem; margin: 2.2rem 0 2.8rem; }
 .filter-button { padding: .58rem .9rem; border: 1px solid var(--line); border-radius: 0; color: var(--ink); background: var(--white); font-size: .94rem; font-weight: 800; }
 .filter-button:hover, .filter-button[aria-pressed="true"] { border-color: #000000; color: #000000; background: var(--white); }
